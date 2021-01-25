@@ -1,0 +1,4 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://tic-tac-toe.dreambox.com"
+}
